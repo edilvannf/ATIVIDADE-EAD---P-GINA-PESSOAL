@@ -50,3 +50,9 @@ body {
     opacity: 0.9;
     transform: scale(1.05);
 }
+
+.botoes i {
+    margin-right: 8px;
+    font-size: 1.2em;
+    vertical-align: middle;
+}
