@@ -1,2 +1,2 @@
-# ATIVIDADE-EAD---P-GINA-PESSOAL
+# ATIVIDADE EAD - PÁGINA-PESSOAL
 Atividade EAD de Projeto Integrador De Programação
