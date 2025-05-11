@@ -45,7 +45,7 @@ html,body{
 
 .botoes a button:hover {
     opacity: 0.9;
-    transform: scale(1.10);
+    transform: scale(1.20);
 }
 
 .botoes i {
