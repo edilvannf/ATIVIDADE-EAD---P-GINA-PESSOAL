@@ -53,38 +53,3 @@ html,body{
     font-size: 1.2em;
     vertical-align: middle;
 }
-
-.bolsonarokk {
-    display: flex;
-    justify-content: center;    
-}
-
-.bolsonarokk img {
-    width: 500px;     
-    height: 200;
-    display: block;   
-    margin: 20px auto;
-    border-radius: 8px; 
-}
-
-.bolsonarokk img:hover {
-    transform: scale(1.05);
-    transition: transform 0.3s ease;
-}
-
-.botoes .imagem-mito {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 15px;
-}
-
-.botoes .imagem-mito img {
-    width: 80px;
-    height: auto;
-    border-radius: 8px;
-    transition: transform 0.3s ease;
-}
-
-.botoes .imagem-mito img:hover {
-    transform: scale(1.05);
-}
