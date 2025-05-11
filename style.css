@@ -66,3 +66,8 @@ html,body{
     margin: 20px auto;
     border-radius: 8px; 
 }
+
+.bolsonarokk img:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
