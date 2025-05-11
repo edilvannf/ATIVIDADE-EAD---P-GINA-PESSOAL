@@ -57,7 +57,6 @@ html,body{
 .bolsonarokk {
     display: flex;
     justify-content: center;    
-    height: 100vh;    
 }
 
 .bolsonarokk img {
