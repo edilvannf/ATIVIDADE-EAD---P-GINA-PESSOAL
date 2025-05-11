@@ -59,6 +59,9 @@ html,body{
     justify-content: center;        
 
 .bolsonarokk img {
-    width: 200px;           
-    height: auto;
+    width: 100px;     
+    height: auto;     2
+    display: block;   
+    margin: 20px auto;
+    border-radius: 8px; 
 }
