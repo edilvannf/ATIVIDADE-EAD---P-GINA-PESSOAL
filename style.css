@@ -20,6 +20,7 @@ html,body{
 .projetos{
     justify-content: center;
     margin-top: 50px;
+    display: flex;
 }
 
 .projeto1{
