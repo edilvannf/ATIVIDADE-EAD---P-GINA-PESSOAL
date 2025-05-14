@@ -40,6 +40,32 @@ projetos h2{
     color:#6e6e6e;
 }
 
+.projeto1 a button {
+    background-color: #0077b5;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 24px;
+    margin: 10px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.projeto1 a:first-child button {
+    background-color: #333;
+}
+
+.projeto1 a button:hover {
+    opacity: 0.9;
+    transform: scale(1.20);
+}
+
+.projeto1 i {
+    margin-right: 8px;
+    font-size: 1.2em;
+    vertical-align: middle;
+
 .botoes {
     margin-top: 30px;
 }
