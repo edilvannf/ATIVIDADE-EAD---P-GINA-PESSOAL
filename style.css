@@ -21,6 +21,8 @@ html,body{
     justify-content: center;
     margin-top: 50px;
     display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
 }
 
 .projeto1{
