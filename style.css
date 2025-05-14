@@ -24,6 +24,8 @@ html,body{
 .projetos projeto1{
     justify-content: center;
     width: 70%;
+    border-color: #ae05ec;
+    border: 2px;
 }
 
 .projetos p {
