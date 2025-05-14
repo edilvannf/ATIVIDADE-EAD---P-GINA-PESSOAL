@@ -19,12 +19,13 @@ html,body{
 
 .projetos{
     justify-content: center;
+    margin-top: 50px;
 }
 
-.projetos projeto1{
+.projeto1{
     justify-content: center;
     width: 70%;
-    border-color: #ae05ec;
+    padding: 20px;
     border: 2px solid #ae05ec;
 }
 
