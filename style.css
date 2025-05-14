@@ -18,11 +18,12 @@ html,body{
 }
 
 .projetos{
-    
+    justify-content: center;
 }
 
 .projetos projeto1{
-    
+    justify-content: center;
+    width: 70%;
 }
 
 .projetos p {
