@@ -71,7 +71,7 @@ html,body{
     vertical-align: middle;
 }
 
-.botao-padrao {
+.botoes-padrao {
     background-color: #0077b5; 
     color: white;
     border: none;
@@ -83,7 +83,7 @@ html,body{
     transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
-.botao-padrao:hover {
+.botoes-padrao:hover {
     opacity: 0.9;
     transform: scale(1.20);
 }
